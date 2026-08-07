@@ -1,0 +1,4 @@
+# Development tooling for working with this Frictionless Data Package.
+# `frictionless` is used to describe, extract, and validate the data package
+# (datapackage.json) against the CSV resource in data/.
+frictionless==5.19.0
